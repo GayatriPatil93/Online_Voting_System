@@ -6,6 +6,7 @@
 This is a simple Java based web application using HTML/CSS, JSP, Servlets & MYSQL.It allows users to vote online in a secure and easy way. The main goal of this project is to make the voting process digital, safe, and simple — so people can vote from anywhere.
 <br>
 <br>
+<hr>
 
 🚀FEATURES :
 <br><br>
@@ -18,6 +19,7 @@ This is a simple Java based web application using HTML/CSS, JSP, Servlets & MYSQ
 🔐 Only eligible users can vote only once
 
 📂 Admin Panel for adding/updating candidates and viewing results<br> <br>
+<hr>
 
 ⚙ How to Setup?<br>
 Follow the given instructions:-<br>
@@ -32,7 +34,13 @@ git clone https://github.com/GayatriPatil93/online-voting-system.git<br><br>
 -Import database.sql or create tables manually<br>
 -Update DB config in your code <br>
 
-4.Run the project using Apache Tomcat Server
+4.Run the project using Apache Tomcat Server<br>
+<hr>
+<br> 
+💻 Developed By-
+  **Gayatri Patil**
+📧 patilgayatri906@.com  
+🔗 [LinkedIn](www.linkedin.com/in/gayatri-patil-7a35512a2)
 
 
 
