@@ -1,4 +1,5 @@
-<b>Online Voting System <b><br>
+<center><b>Online Voting System</center></b><br>
+<br>
 
 ![image alt](https://github.com/GayatriPatil93/Online_Voting_System/blob/master/Screenshot%20(121).png?raw=true)
 
@@ -8,7 +9,7 @@ This is a simple Java based web application using HTML/CSS, JSP, Servlets & MYSQ
 
 🚀FEATURES :
 <br><br>
-👤 User Registration & Login (Voter/Admin)
+👤 User Registration & Login (Voter/Admin/Candidate)
 
 🗳️ Secure Voting Mechanism
 
